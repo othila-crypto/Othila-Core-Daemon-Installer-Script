@@ -6,7 +6,9 @@ You must have git installed on the server.
 
 ```sudo apt-get install git -y```
 
-Next, clone the repository with ```git clone https://github.com/othila-crypto/Othila-Core-Daemon-Installer-Script.git```.
+Next, clone the repository.
+
+```git clone https://github.com/othila-crypto/Othila-Core-Daemon-Installer-Script.git```.
 
 ## Othila-Core-Daemon-Installer-Script
 Use this script to setup the Othila Core daemon. 
